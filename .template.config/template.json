@@ -1,0 +1,33 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Microsoft",
+    "classifications": [
+        "Web",
+        "MVC",
+        "Razor Pages"
+    ],
+    "name": "Azure Cosmos DB for NoSQL Tutorial - ASP.NET project template",
+    "identity": "CosmicWorks.Template.Web",
+    "shortName": "cosmosdbnosql-webapp",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "Microsoft.Azure.Cosmos.Samples.Web",
+    "preferNameDirectory": true,
+    "sources": [
+        {
+            "modifiers": [
+                {
+                    "exclude": [
+                        ".git/**",
+                        "*.nuspec",
+                        "_rels/**",
+                        "package/**",
+                        "[Content_Types].xml"
+                    ]
+                }
+            ]
+        }
+    ]
+}

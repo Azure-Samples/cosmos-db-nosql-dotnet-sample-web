@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>CosmicWorks.Template.Web</id>
+        <type>Template</type>
+        <version>1.0.0</version>
+        <title>Azure Cosmos DB for NoSQL Tutorial - ASP.NET project template</title>
+        <authors>Microsoft</authors>
+        <description>Sample ASP.NET application for CosmicWorks that connects to Azure Cosmos DB for NoSQL.</description>
+        <tags>dotnet-new;templates;cosmicworks;cosmos-db;</tags>
+        <icon>wwwroot/icon.png</icon>
+        <readme>readme.md</readme>
+        <license type="expression">MIT</license>
+        <repository type="git" url="https://github.com/Azure-Samples/cosmos-db-nosql-dotnet-sample-web.git" branch="main" />
+    </metadata>
+</package>
