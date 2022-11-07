@@ -25,7 +25,7 @@ This project framework provides the following features:
 - Install the [CosmicWorks.Template.Web package](https://www.nuget.org/packages/CosmicWorks.Template.Web) from NuGet:
 
     ```
-    dotnet install CosmicWorks.Template.Web
+    dotnet new install CosmicWorks.Template.Web
     ```
 
 - In an empty directory, create a new ASP.NET web application project using the project template:
